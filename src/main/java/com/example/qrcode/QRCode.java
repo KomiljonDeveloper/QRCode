@@ -14,7 +14,7 @@ public class QRCode {
 
         int width= 500;
         int height = 500;
-        String qrCodeText = "Komiljon";
+        String qrCodeText = "Komiljon Bakhromov Muzaffar o'g'li Java Backend dasturchisi!";
         String fileType = "png";
 
         try {
